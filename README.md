@@ -65,17 +65,18 @@ Each week's folder contains Jupyter notebooks with exercises and examples.
 
 Each lab is in a separate folder with detailed instructions. To run a lab:
 
-1. **Navigate to the week’s directory, e.g.,**
+1. Navigate to the week’s directory, e.g.,
 
 ```bash
 cd week1
-Open the Jupyter notebook for the lab:
+
 ```
+2. Open the Jupyter notebook for the lab:
 
 ```bash
 jupyter notebook
-Follow the instructions within the notebook to complete the exercises.
 ```
+3. Follow the instructions within the notebook to complete the exercises.
 
 ## Contributing
 
@@ -93,7 +94,6 @@ git checkout -b feature-name
 git commit -m "Description of feature"
 git push origin feature-name
 ```
-
 4. Create a pull request.
 
 ## License
