@@ -4,13 +4,13 @@ This repository contains lab exercises and projects for building and experimenti
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Setup](#setup)
-- [Lab Structure](#lab-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#overview)
+- [Prerequisites](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#prerequisites)
+- [Setup](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#setup)
+- [Lab Structure](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#lab-structure)
+- [Usage](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#usage)
+- [Contributing](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#contributing)
+- [License](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#license)
 
 ## Overview
 
@@ -88,7 +88,7 @@ Contributions are welcome! If you'd like to contribute:
 ```bash
 git checkout -b feature-name
 ```
-3.Commit your changes and push your branch:
+3. Commit your changes and push your branch:
 
 ```bash
 git commit -m "Description of feature"
