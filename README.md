@@ -4,12 +4,12 @@ This repository contains lab exercises and projects for building and experimenti
 
 ## Contents
 
-- [What's in this repo](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#overview)
+- [What's in this repo](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#whats-in-this-repo)
 - [Prerequisites](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#prerequisites)
 - [Setup](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#setup)
 - [Lab Structure](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#lab-structure)
-- [How to use this repo](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#usage)
-- [Contributions](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#contributing)
+- [How to use this repo](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#how-to-use-this-repo)
+- [Contribution](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#incase-you-wanna-contribute)
 - [License](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#license)
 
 ## What's in this repo
