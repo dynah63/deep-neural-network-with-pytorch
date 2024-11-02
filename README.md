@@ -1,20 +1,20 @@
 # Deep Neural Networks with PyTorch Labs (IBM Course)
 
-This repository contains lab exercises and projects for building and experimenting with deep neural networks using PyTorch. These labs are organized into weekly folders, from Week 1 to Week 6, and are based on IBM's Deep Learning with PyTorch course. Each lab is hosted on Skills Network, providing hands-on experience with various neural network architectures and training techniques.
+This repository contains lab exercises and projects for building and experimenting with deep neural networks using PyTorch. These labs are organized into weekly folders, from Week 1 to Week 6, and are based on IBM's Deep Learning with PyTorch course. Each lab is hosted on Skills Network, providing hands-on experience with various neural network architectures and training techniques. Hope this helps you the same way it helped me.
 
-## Table of Contents
+## Contents
 
-- [Overview](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#overview)
+- [What's in this repo](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#overview)
 - [Prerequisites](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#prerequisites)
 - [Setup](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#setup)
 - [Lab Structure](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#lab-structure)
-- [Usage](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#usage)
-- [Contributing](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#contributing)
+- [How to use this repo](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#usage)
+- [Contributions](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#contributing)
 - [License](https://github.com/dynah63/deep-neural-networks-with-pytorch-IBM#license)
 
-## Overview
+## What's in this repo
 
-The labs in this repository cover essential concepts and techniques for working with deep neural networks using PyTorch. Through these exercises, you will learn:
+The labs in this repo cover essential concepts and techniques for working with deep neural networks using PyTorch. Through these exercises, you will learn:
 
 - Basic PyTorch operations and tensor manipulations
 - Implementing feedforward neural networks
@@ -61,7 +61,7 @@ This repository is organized by week, with each week covering a different aspect
 
 Each week's folder contains Jupyter notebooks with exercises and examples.
 
-## Usage
+## How to use this repo
 
 Each lab is in a separate folder with detailed instructions. To run a lab:
 
@@ -78,9 +78,9 @@ jupyter notebook
 ```
 3. Follow the instructions within the notebook to complete the exercises.
 
-## Contributing
+##  Incase you wanna Contribute...
 
-Contributions are welcome! If you'd like to contribute:
+Feel free to contribute, it'll really help a lot. Here are steps to follow:
 
 1. Fork the repository.
 2. Create a new branch:
@@ -98,7 +98,7 @@ git push origin feature-name
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](#license) file for details.
+ [LICENSE](#license) (Oops forgot to add license?!!!)
 
 
 
